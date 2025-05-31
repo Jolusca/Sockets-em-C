@@ -8,3 +8,6 @@
 ```bash
 gcc Server.c -o servidor.exe -lws2_32
 gcc Client.c -o cliente.exe -lws2_32
+
+./servidor.exe
+./cliente.exe
